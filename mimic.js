@@ -1,3 +1,4 @@
+// Referenc ONLY: https://github.com/jrios6/AIND-CV-Mimic.git
 // Mimic Me!
 // Fun game where you need to express emojis being displayed
 
